@@ -87,8 +87,14 @@ Time travel validated
 Table registered
 
 Completion Status
-Module	Status
-Module 1.1	✔ Complete
-Module 1.2	✔ Complete
-Module 1.3	✔ Complete
+
+```code
++------------+-------------+
+|  Module    |   Status    |
++------------+-------------+
+| Module 1.1 | ✔ Complete  |
+| Module 1.2 | ✔ Complete  |
+| Module 1.3 | ✔ Complete  |
++------------+-------------+
+```
 Level 1 is now fully satisfied and ready for Level 2 progression.
