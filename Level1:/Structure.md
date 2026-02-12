@@ -1,4 +1,4 @@
-```code
+```yml
 Project-Data-brick-Mastery-with-Co-Pilot-Qzi/
 │
 ├── Level1/
