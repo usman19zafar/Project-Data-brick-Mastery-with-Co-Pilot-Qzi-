@@ -43,14 +43,14 @@ KPI	Description
 KPI‑1	Notebook runs without cluster errors
 KPI‑2	Notebook mixes markdown + code + results in a clean sequence
 Both KPIs must be satisfied for Module 1.1 to be considered complete.
-
+```code
 +--------+--------------------------------------------------------------+
 |  KPI   | Description                                                  |
 +--------+--------------------------------------------------------------+
 | KPI-1  | Notebook runs without cluster errors                         |
 | KPI-2  | Notebook mixes markdown + code + results in a clean sequence |
 +--------+--------------------------------------------------------------+
-
+```
 Delivered Artifact
 Notebook: module_1_1_workspace_notebooks.py
 Contents include:
